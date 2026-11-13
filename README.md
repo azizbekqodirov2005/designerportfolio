@@ -1,5 +1,9 @@
 # Salohiddin Mahmudov — Portfolio
 
+🔗 **Jonli sayt: [mahmudovpro.netlify.app](https://mahmudovpro.netlify.app/)**
+
+![Salohiddin Mahmudov portfolio](./screenshot.png)
+
 React + TypeScript + Vite + Tailwind CSS v4 + Framer Motion + Lucide.
 
 ## Ishga tushirish
